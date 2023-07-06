@@ -27,7 +27,17 @@
 	<meta name="keywords" content="liv pure supplement, livpure supplements, liv pure, liv pure official site, livpure supplmeent, liv pure buy">
 </head>
 <body>
-  
+  <!-- Analytics -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71677688-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-71677688-1');
+</script>
+<!-- /Analytics -->  
   <section data-bs-version="5.1" class="menu menu2 cid-tHPsLvmCzT" once="menu" id="menu2-0">
     
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
